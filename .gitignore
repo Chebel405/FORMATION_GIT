@@ -1,0 +1,3 @@
+#Dossier ignoré par git
+bin
+node_modules
