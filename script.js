@@ -4,4 +4,5 @@ let monpremierbranche = 0;
 let monpremierFusion = 0;
 
 let monpremierErreur =0;
+let unicorneMode = 1;
 
